@@ -8,7 +8,7 @@ Der Podcastmanager ist eine Webapplikation, welche es ermöglicht, Podcasts zu v
 - **PostgreSQL**-Datenbank (über Docker oder manuell)
 - **Node.js** für das Frontend
 - **Java & Maven** für das Backend
-- **Keycloak** für die Authentifizierung (über Docker oder manuell)
+- **Docker** für die Authentifizierung (Keycloak)
 
 ---
 
